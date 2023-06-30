@@ -15,3 +15,4 @@ this file use micropython to program ESP32
 8. upload all files that have been downloaded on [this](https://github.com/wafiall/Elma/tree/main/code%20esp32)
 9. reboot your esp32 and program is running.
 
+#### Don't forget to open ' into.md '
