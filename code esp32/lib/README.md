@@ -1,0 +1,6 @@
+## mpyaes.py
+is a micropython library for AES encryption and description, AES is a symmetric encryption method that is most widely used worldwide. AES uses strong cryptographic algorithms to secure data by converting text (plaintext) into encrypted text (ciphertext). The AES encryption process involves using the same encryption key for data encryption and decryption. This means to decrypt data that has been encrypted, the same key must be used.
+## uModBus
+is a micropython library for ModBus, Modbus is a communication protocol used to interconnect disparate industrial electronic devices and equipment. Modbus allows electronic devices to communicate quickly and efficiently over serial networks
+## wmanag.py
+is a custom micropython library for wifi manager. wifi manager aims to simplify the configuration and management of WiFi connections on microcontrollers or other embedded devices. WiFi Manager helps solve this problem by providing a simple interface for configuring WiFi connections without the need to reprogram the microcontroller or modify the source code directly. With the help of WiFi Manager, users can easily enter the credentials (SSID and password) to the WiFi network they want to connect
